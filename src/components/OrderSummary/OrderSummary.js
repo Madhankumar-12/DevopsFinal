@@ -21,7 +21,7 @@ function OrderSummary() {
     city,
     state,
     country,
-    zip_code,
+    pin_code,
   } = ShippingState;
 
   return (
